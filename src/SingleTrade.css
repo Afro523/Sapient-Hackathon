@@ -1,0 +1,10 @@
+.PaperContainer{
+    width: 100%;
+    background-color: lightgrey !important;
+}
+
+.w20{
+    display: inline-block;
+    width: 20%;
+    padding: 10px 0;
+}

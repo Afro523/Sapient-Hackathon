@@ -1,0 +1,19 @@
+.w20-title{
+    display: inline-block;
+    width: 19%;
+    padding: 10px 0;
+    color: white;
+    font-weight: bold;
+}
+
+.trade-tool-container{
+    padding-top:20px;
+}
+
+.trade-tool-container > div:not(:last-child){
+    border-right: white 1px solid;
+}
+
+.trade-tool-container > div:nth-child(5){
+    border-right: 0px;
+}

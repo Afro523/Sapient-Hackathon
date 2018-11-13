@@ -1,0 +1,12 @@
+.banner{
+    height:75px;
+    padding:0px 10px;
+    background-color: lightgrey;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.title{
+    font-size: 25px;
+    font-weight: bold;
+}
